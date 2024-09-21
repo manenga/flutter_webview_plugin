@@ -49,3 +49,4 @@ build/
 
 # FVM Version Cache
 .fvm/
+.pubignore

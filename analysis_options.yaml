@@ -77,7 +77,6 @@ linter:
   # - parameter_assignments # we do this commonly
   - prefer_adjacent_string_concatenation
   - prefer_asserts_in_initializer_lists
-  - prefer_bool_in_asserts
   - prefer_collection_literals
   - prefer_conditional_assignment
   - prefer_const_constructors
@@ -86,7 +85,6 @@ linter:
   - prefer_const_literals_to_create_immutables
   # - prefer_constructors_over_static_methods # not yet tested
   - prefer_contains
-  - prefer_equal_for_default_values
   # - prefer_expression_function_bodies # conflicts with https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#consider-using--for-short-functions-and-methods
   - prefer_final_fields
   - prefer_final_locals
@@ -103,7 +101,6 @@ linter:
   - slash_for_doc_comments
   - sort_constructors_first
   - sort_unnamed_constructors_first
-  - super_goes_last
   - test_types_in_equals
   - throw_in_finally
   # - type_annotate_public_apis # subset of always_specify_types

@@ -1,4 +1,4 @@
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
+import 'package:flutter_webview_plugin_android_v2/flutter_webview_plugin_android_v2.dart';
 
 final RegExp _validChannelNames = RegExp('^[a-zA-Z_][a-zA-Z0-9]*\$');
 
@@ -30,4 +30,4 @@ class JavascriptChannel {
 }
 
 /// Callback type for handling messages sent from Javascript running in a web view.
-typedef void JavascriptMessageHandler(JavascriptMessage message);
+typedef JavascriptMessageHandler = void Function(JavascriptMessage message);

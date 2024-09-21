@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
+import 'package:flutter_webview_plugin_android_v2/flutter_webview_plugin_android_v2.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

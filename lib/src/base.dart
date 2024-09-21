@@ -5,7 +5,7 @@ import 'dart:ui';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_webview_plugin/src/javascript_channel.dart';
+import 'package:flutter_webview_plugin_android_v2/src/javascript_channel.dart';
 import 'javascript_message.dart';
 
 part 'base_webview_state_changed.dart';

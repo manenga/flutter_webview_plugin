@@ -1,4 +1,5 @@
 /// A message that was sent by JavaScript code running in a [WebView].
+library;
 
 // ignore_for_file: unnecessary_null_comparison
 
