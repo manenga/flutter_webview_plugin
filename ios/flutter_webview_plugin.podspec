@@ -11,7 +11,7 @@ A new Flutter plugin project.
                        DESC
   s.homepage         = 'https://github.com/manenga/flutter_webview_plugin'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Maneenga Mungandi' => '' }
+  s.author           = { 'Manenga Mungandi' => '' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
